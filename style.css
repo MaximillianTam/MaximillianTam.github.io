@@ -2,6 +2,7 @@ h1{
     font-family: 'Caveat', cursive;
     font-size:6vw;
     text-align:center;
+    margin:0;
     /* justify-content: right; */
     /* transform: rotate(90deg);  */
 }
@@ -9,11 +10,12 @@ h1{
 
 /* NAV */
 .main-nav{
-    display: inline-block;
+    /* display: inline-block; */
     font-family: 'Ovo', serif;
-    font-size:0.7em;
+    font-size:1.2em;
     padding:1em;
     display:flex;
+    justify-content:center;
 }
 
 a{
