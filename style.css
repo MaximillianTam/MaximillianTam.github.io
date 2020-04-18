@@ -1,14 +1,12 @@
 h1{
     font-family: 'Caveat', cursive;
-    font-size:25em;
+    font-size:50vw;
     /* justify-content: right; */
     /* transform: rotate(90deg); */
 }
 
-nav{
+ul li{
     display: inline-block;
-}
-
-li{
     list-style: none;
 }
+
