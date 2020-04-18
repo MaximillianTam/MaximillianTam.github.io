@@ -8,5 +8,6 @@ h1{
 ul li{
     display: inline-block;
     list-style: none;
+    font-family: 'Ovo', serif;
 }
 
