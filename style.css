@@ -3,21 +3,25 @@ h1{
     font-size:6vw;
 
     /* justify-content: right; */
-    transform: rotate(90deg); 
+    /* transform: rotate(90deg);  */
 }
 
 ul li{
     display: inline-block;
     font-family: 'Ovo', serif;
-    color:black;
     font-size:2vw;
-
+    padding:1em;
 }
 
 a{
     text-decoration: none;
+    color:black;
 }
 
 ul {
     list-style: none;
+}
+
+h2,h3{
+    font-family: 'Ovo', serif;
 }
