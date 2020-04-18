@@ -11,6 +11,10 @@ ul li{
     font-family: 'Ovo', serif;
 }
 
+a{
+    text-decoration: none;
+}
+
 ul {
     list-style: none;
 }
