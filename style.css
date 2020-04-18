@@ -6,11 +6,14 @@ h1{
     /* transform: rotate(90deg);  */
 }
 
-ul li{
+
+/* NAV */
+.main-nav{
     display: inline-block;
     font-family: 'Ovo', serif;
-    font-size:2vw;
+    font-size:0.7em;
     padding:1em;
+    display:flex;
 }
 
 a{
