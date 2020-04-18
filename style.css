@@ -1,6 +1,6 @@
 h1{
     font-family: 'Caveat', cursive;
-    justify-content: right;
+    /* justify-content: right; */
     /* transform: rotate(90deg); */
 }
 
@@ -8,6 +8,6 @@ nav{
     display: inline block;
 }
 
-nav li{
+li{
     list-style: none;
 }
