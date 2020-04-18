@@ -18,10 +18,21 @@ h1{
     justify-content:center;
 }
 
+@media only screen and (max-width: 600px) 
+  .main-nav
+    { 
+    font-size:0.5em;
+    }
+
+
 a{
     text-decoration: none;
     color:black;
     padding:1em;
+}
+
+a:hover{
+    color:#f67e7d;
 }
 
 ul {
