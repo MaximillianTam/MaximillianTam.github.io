@@ -1,14 +1,17 @@
 h1{
     font-family: 'Caveat', cursive;
-    font-size:5vw;
+    font-size:6vw;
 
     /* justify-content: right; */
-    /* transform: rotate(90deg); */
+    transform: rotate(90deg); 
 }
 
 ul li{
     display: inline-block;
     font-family: 'Ovo', serif;
+    color:black;
+    font-size:2vw;
+
 }
 
 a{
