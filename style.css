@@ -1,7 +1,7 @@
 h1{
     font-family: 'Caveat', cursive;
     font-size:6vw;
-
+    text-align:center;
     /* justify-content: right; */
     /* transform: rotate(90deg);  */
 }
@@ -19,12 +19,13 @@ h1{
 a{
     text-decoration: none;
     color:black;
+    padding:1em;
 }
 
 ul {
     list-style: none;
 }
 
-h2,h3{
+h2,h3,p{
     font-family: 'Ovo', serif;
 }
