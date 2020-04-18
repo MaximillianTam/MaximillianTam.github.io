@@ -1,13 +1,13 @@
 h1{
     font-family: 'Caveat', cursive;
-    /* justify-content: right; */
-    transform: rotate(90deg);
+    justify-content: right;
+    /* transform: rotate(90deg); */
 }
 
 nav{
     display: inline;
 }
 
-nav ul{
+nav li{
     list-style: none;
 }
