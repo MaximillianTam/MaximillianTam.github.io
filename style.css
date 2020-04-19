@@ -1,8 +1,11 @@
 h1{
     font-family: 'Caveat', cursive;
-    font-size:6vw;
-    text-align:center;
-    margin:0;
+    font-size:2em;
+    /* margin:0; */
+    top:30%;
+    /* text-align: center; */
+    left:15%;
+    position: absolute;
     /* justify-content: right; */
     /* transform: rotate(90deg);  */
 }
@@ -12,7 +15,7 @@ h1{
 .main-nav{
     /* display: inline-block; */
     font-family: 'Ovo', serif;
-    font-size:1.2em;
+    font-size:.7em;
     padding:1em;
     display:flex;
     justify-content:center;
@@ -41,4 +44,18 @@ ul {
 
 h2,h3,p{
     font-family: 'Ovo', serif;
+}
+
+.intro-position {
+	font-family: 'Ovo', serif;
+    font-size: 0.4em;
+    display: inline-block;
+    /* line-height: 2.4rem; */
+    top:38%;
+    left:15%;
+    position:absolute;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	color: #000000;
+	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 }
