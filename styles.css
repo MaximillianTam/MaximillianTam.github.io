@@ -486,7 +486,7 @@ section:not(.hero){
 }
 
 .skill-description{
-    margin-top:5rem;
+/*    margin-top:5rem;*/
     padding:3rem 0;
     line-height:2;
 }
@@ -715,6 +715,8 @@ section:not(.hero){
 .btn-blue{
     background-color: var(--blue-color);
     color:var(--light-color);
+    padding:8px;
+    
 }
 
 .btn-blue:hover{
